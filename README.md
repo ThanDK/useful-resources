@@ -93,7 +93,7 @@ Repository นี้คือพื้นที่สำหรับรวบร
 ## 💡 Software Design & Architecture
 
 -   **[REST API Design Best Practices](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)**: แนวทางปฏิบัติที่ดีที่สุดในการออกแบบ RESTful API
--   **[Refactoring.Guru - Design Patterns](https://refactoring.guru/design-patterns)**: แหล่งเรียนรู้ Design Patterns พร้อมภาพประกอบ
+-   **[Refactoring.Guru - Design Patterns](https://refactoring.guru/design-patterns)**: เรียน Design Patterns พร้อมภาพประกอบ
 -   **[The Twelve-Factor App](https://12factor.net/)**: หลักการ 12 ข้อสำหรับการสร้างแอปพลิเคชันสมัยใหม่
 
 ---
