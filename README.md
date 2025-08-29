@@ -28,8 +28,8 @@ Repository นี้คือพื้นที่สำหรับรวบร
 ## ☕ Backend Development
 
 ### Java & Spring Boot
--   **[Baeldung](https://www.baeldung.com/)**: แหล่งรวม Tutorials และบทความเชิงลึกสำหรับ Java และ Spring Framework ที่ครอบคลุมและเข้าใจง่าย
--   **[Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)**: เอกสารอ้างอิงอย่างเป็นทางการ (Official Docs)
+-   **[Baeldung](https://www.baeldung.com/)**: แหล่งรวม Tutorials และบทความเชิงลึกสำหรับ Java และ Spring Framework 
+-   **[Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)**: เอกสารอ้างอิงอย่างเป็นทางการ 
 -   **[Spring Security Documentation](https://docs.spring.io/spring-security/reference/index.html)**: เอกสารสำหรับ Spring Security โดยเฉพาะ
 -   **[dev.java](https://dev.java/)**: พอร์ทัลสำหรับนักพัฒนา Java จาก Oracle
 
@@ -38,9 +38,9 @@ Repository นี้คือพื้นที่สำหรับรวบร
 ## ⚛️ Frontend Development
 
 ### JavaScript & React
--   **[React Official Docs](https://react.dev/)**: เอกสารอย่างเป็นทางการของ React สำหรับการเรียนรู้ตั้งแต่พื้นฐานจนถึงแนวคิดขั้นสูง
+-   **[React Official Docs](https://react.dev/)**: เอกสารอย่างเป็นทางการของ React 
 -   **[MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**: แหล่งอ้างอิงมาตรฐานสำหรับ JavaScript, HTML, และ CSS
--   **[JavaScript.info](https://javascript.info/)**: เว็บไซต์สอน JavaScript ที่อธิบายละเอียดและมีตัวอย่างที่ดี
+-   **[JavaScript.info](https://javascript.info/)**: เว็บไซต์สอน JavaScript 
 -   **[Vite Documentation](https://vitejs.dev/)**: เอกสารสำหรับ Modern Frontend Build Tool
 -   **[TanStack Table v8 Docs](https://tanstack.com/table/v8)**: ไลบรารีสำหรับสร้างตารางข้อมูลประสิทธิภาพสูงใน React
 -   **[React-Bootstrap](https://react-bootstrap.netlify.app/)**: UI Components ของ Bootstrap สำหรับใช้ใน React
@@ -51,11 +51,11 @@ Repository นี้คือพื้นที่สำหรับรวบร
 
 ### General Learning & Concepts
 -   **[Hugging Face Courses](https://huggingface.co/learn/nlp-course)**: คอร์สเรียนฟรีเกี่ยวกับ Natural Language Processing (NLP) และ Transformers
--   **[DeepLearning.AI](https://www.deeplearning.ai/)**: คอร์สเรียนจาก Andrew Ng ครอบคลุมตั้งแต่ Machine Learning พื้นฐานจนถึง Generative AI
+-   **[DeepLearning.AI](https://www.deeplearning.ai/)**: คอร์สเรียนจาก Andrew Ng ที่รวม Machine Learning พื้นฐานจนถึง Generative AI
 -   **[Google AI for Developers](https://ai.google.dev/)**: แหล่งรวมเครื่องมือ, Tutorials, และเอกสารเกี่ยวกับ AI จาก Google
 
 ### Prompt Engineering
--   **[Prompt Engineering Guide](https://www.promptingguide.ai/)**: คู่มือสอนเทคนิคการเขียน Prompt สำหรับ LLMs ที่ละเอียดและครอบคลุม
+-   **[Prompt Engineering Guide](https://www.promptingguide.ai/)**: คู่มือสอนเทคนิคการเขียน Prompt สำหรับ LLMs 
 -   **[Learn Prompting](https://learnprompting.org/)**: คอร์สเรียน Prompt Engineering ฟรี
 
 ### Specific Models
@@ -82,8 +82,8 @@ Repository นี้คือพื้นที่สำหรับรวบร
 -   **[Docker Compose overview](https://docs.docker.com/compose/)**: ภาพรวมและวิธีการใช้งาน Docker Compose
 
 ### Git & Version Control
--   **[Pro Git book](https://git-scm.com/book/en/v2)**: หนังสือ Pro Git ฉบับเต็ม อ่านฟรี เป็นแหล่งเรียนรู้ Git ที่ดีที่สุด
--   **[Git Cheat Sheet by Atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)**: ใบสรุปคำสั่ง Git ที่ใช้บ่อย
+-   **[Pro Git book](https://git-scm.com/book/en/v2)**: หนังสือ Pro Git ฉบับเต็ม 
+-   **[Git Cheat Sheet by Atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)**: สรุปคำสั่ง Git ที่ใช้บ่อย
 
 ### Web Servers
 -   **[Nginx Documentation](https://nginx.org/en/docs/)**: เอกสารสำหรับ Nginx Web Server
